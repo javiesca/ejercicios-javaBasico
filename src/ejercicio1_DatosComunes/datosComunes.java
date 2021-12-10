@@ -1,4 +1,4 @@
-package datosComunes;
+package ejercicio1_DatosComunes;
 
 public class datosComunes {
 

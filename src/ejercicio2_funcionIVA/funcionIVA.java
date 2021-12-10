@@ -1,4 +1,4 @@
-package funcionIVA;
+package ejercicio2_funcionIVA;
 
 public class funcionIVA {
 
